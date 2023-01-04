@@ -11,6 +11,6 @@ Thank You! 감사합니다. ありがとうごじゃいます
 
 }
 <h2> My Skill! </h2>
-Java , HTML5, Java Script, CSS, C 
+Java , HTML5, Java Script, CSS, C , React
 
 
