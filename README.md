@@ -11,6 +11,8 @@ Thank You! 감사합니다. ありがとうごじゃいます
 
 }
 <h2> My Skill! </h2>
-Java , HTML5, Java Script, CSS, C , React
+React.js, React-Native, Next.js, and Tailwind.css 
+<h2> Tools </h2>
+Firebase, Expo, postman
 
 
