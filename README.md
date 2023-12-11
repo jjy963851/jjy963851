@@ -1,3 +1,17 @@
+<head>
+    <style>
+        h2 {
+            color: blue;
+        }
+
+        p {
+            color: green;
+        }
+    </style>
+</head>
+
+
+
 <h1> Welcome to My Page! My name is JaeYong, and I'm Korean👋 </h1>
 public static void main(String[] args){
 
