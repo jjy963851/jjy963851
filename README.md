@@ -1,16 +1,3 @@
-<head>
-    <style>
-        h2 {
-            color: blue;
-        }
-
-        p {
-            color: green;
-        }
-    </style>
-</head>
-
-
 
 <h1> Welcome to My Page! My name is JaeYong, and I'm Korean👋 </h1>
 public static void main(String[] args){
@@ -29,9 +16,9 @@ This is my Portfolio:
 
 
 }
-<h2> My Skill! </h2>
-React.js, React-Native, Next.js, and Tailwind.css 
+## My Skill!
+<span style="color: blue;">React.js, React-Native, Next.js, and Tailwind.css, node.js </span>
 <h2> Tools </h2>
-Firebase, Expo, postman
+Redux.js, Recoil.js, nextAuth.js, swiper.js, Segment, Mongo-db, Firebase, Expo, postman
 
 
