@@ -17,7 +17,7 @@ This is my Portfolio:
 
 }
 ## My Skill!
-<span style="color: blue;">React.js, React-Native, Next.js, and Tailwind.css, node.js </span>
+<span style="color: blue;">React.js, React-Native, Next.js, and Tailwind.css, node.js, java </span>
 <h2> Tools </h2>
 Redux.js, Recoil.js, nextAuth.js, swiper.js, Segment, Mongo-db, Firebase, Expo, postman
 
