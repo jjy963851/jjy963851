@@ -9,7 +9,9 @@ System.out.println(" Fun Fact : I Can Speak Korean, English, and Japanese! ");
 
 Thank You! 감사합니다. ありがとうごじゃいます!
 
-This is my Portfolio
+This is my Portfolio:
+
+<img src="https://github.com/jjy963851/jjy963851/assets/35151515/a3c72323-03fc-4173-9bbb-0de0a63e8299.png" width="30%" />
 
 
 }
