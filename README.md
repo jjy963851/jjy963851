@@ -1,19 +1,13 @@
 
 
 
-<div>
-    
-
 
 <h1 style="color:#004e98"> Hi, I'm JaeYong.  </h1>
 I'm a Front End developer.
 You can contact me by jjy963851@gmail.com 
 
 <h2> My Expereince </h2>
-
-
-
-
+** Blossend Inc - ReactJS Developer **
 
 This is my Portfolio:
 
@@ -22,8 +16,7 @@ This is my Portfolio:
 
 }
 
-<h2> ## My Skills ## </h2>
-</div>
+<h2>  My Skills  </h2>
 
 
 ![HTML](https://img.shields.io/badge/-HTML-F05032?styles=for-thebadge&logo=html&logoColor=ffffff)
