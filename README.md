@@ -8,7 +8,8 @@ You can contact me by jjy963851@gmail.com
 
 <h2> My Expereince </h2>
 
-** Blossend Inc - ReactJS Developer **
+<h3>ReactJS Developer at <a href ="https://www.blossend.com/">Blossend InC</a> </h3> 
+<li></li>
 
 This is my Portfolio:
 
