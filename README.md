@@ -18,14 +18,21 @@ This is my Portfolio:
 
 
 }
+
+<h2> ## My Skills ## </h2>
 ![HTML](https://img.shields.io/badge/-HTML-F05032?styles=for-thebadge&logo=html&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![Static Badge](https://img.shields.io/badge/NextJS-violet)
+![Static Badge](https://img.shields.io/badge/React_Native-blue)
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-%20skyblue)
+![Static Badge](https://img.shields.io/badge/Redux-%20navy)
+![Static Badge](https://img.shields.io/badge/Recoil-%20yellow)
+![Static Badge](https://img.shields.io/badge/FireBase-%20orange)
 
-## My Skill!
-<span style="color: blue;">React.js, React-Native, Next.js, and Tailwind.css, node.js, java </span>
-<h2> Tools </h2>
-Redux.js, Recoil.js, nextAuth.js, swiper.js, Segment, Mongo-db, Firebase, Expo, postman
+
+
 
 
 
