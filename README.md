@@ -8,8 +8,8 @@ You can contact me by jjy963851@gmail.com
 
 <h2> My Expereince </h2>
 
-<h3>ReactJS Developer at <a href ="https://www.blossend.com/">Blossend InC</a> </h3> 
-<li></li>
+<h3>ReactJS Developer at <a href ="https://www.blossend.com/">Blossend InC</a> 05/2023 ~ Current </h3> 
+<li>Build and Design Core Project  <a href ="https://www.openmydoctor.com/">Open My Doctor</a> Web App</li>
 
 This is my Portfolio:
 
