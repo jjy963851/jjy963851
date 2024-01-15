@@ -20,6 +20,7 @@ This is my Portfolio:
 }
 
 <h2> ## My Skills ## </h2>
+
 ![HTML](https://img.shields.io/badge/-HTML-F05032?styles=for-thebadge&logo=html&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
