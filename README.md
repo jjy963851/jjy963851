@@ -23,3 +23,8 @@ This is my Portfolio:
 Redux.js, Recoil.js, nextAuth.js, swiper.js, Segment, Mongo-db, Firebase, Expo, postman
 
 
+<style>
+  h1{
+    color: blue;
+  }
+</style>
