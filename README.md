@@ -1,4 +1,5 @@
 
+<div>
 <h1> Hi, I'm JaeYong.  </h1>
 I'm a Front End developer.
 You can contact me by <span stlye ={{color: blue}}> jjy963851@gmail.com </span>
@@ -17,14 +18,12 @@ This is my Portfolio:
 
 
 }
+
+</div>
 ## My Skill!
 <span style="color: blue;">React.js, React-Native, Next.js, and Tailwind.css, node.js, java </span>
 <h2> Tools </h2>
 Redux.js, Recoil.js, nextAuth.js, swiper.js, Segment, Mongo-db, Firebase, Expo, postman
 
 
-<style>
-  h1{
-    color: blue;
-  }
-</style>
+
