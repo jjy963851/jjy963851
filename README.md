@@ -8,7 +8,7 @@ You can contact me by jjy963851@gmail.com
 
 <h2> My Expereince </h2>
 
-<h3>ReactJS Developer at <a href ="https://www.blossend.com/">Blossend InC</a> 05/2023 ~ Current </h3> 
+<h3>ReactJS Developer at <a href ="https://www.blossend.com/">Blossend Inc</a> 05/2023 ~ Current </h3> 
 <li>Design and develop Core Project  <a href ="https://www.openmydoctor.com/">Open My Doctor</a> Web App</li>
 <li>Structure the initial architecture, folder structures and routing of the Core project using Next.js 13</li>
 <li>Manage and perform Agile methodology, and Github workflows </li>
@@ -19,11 +19,33 @@ You can contact me by jjy963851@gmail.com
 <li>Implemented new and returning user login authentication and authorization </li>
 <li>Technical design of model architecture for product and user databases</li>
 
-This is my Portfolio:
+<h2>My Projects</h2>
 
-<img src="https://github.com/jjy963851/jjy963851/assets/35151515/a3c72323-03fc-4173-9bbb-0de0a63e8299.png" width="30%" />
+<h3> <a href ="https://next-portfolio-jaeyong.vercel.app/">Portfolio</a> </h3>
+<li>This is my Portfolio</li>
+<li>Next.js framework use</li>
+<li>Parallex design apply</li>
+<li>Farmer Motion apply</li>
+<li>Notion API use</li>
+
+<h3><a href ="https://portfolio-react-alpha-flax.vercel.app/">JaeYong's Shopping Mall</a></h3>
+<li>Webapp styled as Shopping mall, anyone can add my projects to the cart, and checkout to see each project's details</li>
+<li>ReactJS use</li>
+<li>State manage using Redux</li>
+<li>add, remove, empty cart, checkout, total price</li>
+
+<h3> <a href="https://jjy963851.github.io/CSS/">CSS Bank</a></h3>
+<li>Modern Web Design </li>
+<li>Swiper.js</li>
+<li>3D View</li>
+
+<h3> <a href="https://miu-ew8xywv29-jjy963851.vercel.app/ ">Trip Blog</a></h3>
+<li>This is a blog for people who love trip! </li>
+<li>Next.js framework use</li>
+<li>Swiper.js</li>
 
 
+<img src="https://github.com/jjy963851/jjy963851/assets/35151515/a3c72323-03fc-4173-9bbb-0de0a63e8299.png" width="10%" />
 
 
 <h2>  My Skills  </h2>
