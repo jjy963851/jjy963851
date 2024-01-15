@@ -1,6 +1,7 @@
 
-<h1> Welcome to My Page! My name is JaeYong, and I'm Korean👋 </h1>
-public static void main(String[] args){
+<h1> Hi, I'm JaeYong.  </h1>
+I'm a Front End developer.
+You can contact me by <span stlye ={{color: "blue"}}> jjy963851@gmail.com </span>
 
 System.out.println(" I graduated Bachelor Computer Science at Laroche University! ");
 
