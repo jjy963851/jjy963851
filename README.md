@@ -3,16 +3,9 @@
 
 <div>
     
-<style>
-.green {
-    color: green;
-    font-weight:700;
-    font-size: 30px;
-}
-</style>
 
 
-<h1 class ="green"> Hi, I'm JaeYong.  </h1>
+<h1 color ='green'> Hi, I'm JaeYong.  </h1>
 I'm a Front End developer.
 You can contact me by jjy963851@gmail.com 
 
