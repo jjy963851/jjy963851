@@ -5,7 +5,7 @@
     
 
 
-<h1 color="#004e98"> Hi, I'm JaeYong.  </h1>
+<h1 style={color="#004e98"}> Hi, I'm JaeYong.  </h1>
 I'm a Front End developer.
 You can contact me by jjy963851@gmail.com 
 
