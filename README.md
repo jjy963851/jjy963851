@@ -9,14 +9,22 @@ You can contact me by jjy963851@gmail.com
 <h2> My Expereince </h2>
 
 <h3>ReactJS Developer at <a href ="https://www.blossend.com/">Blossend InC</a> 05/2023 ~ Current </h3> 
-<li>Build and Design Core Project  <a href ="https://www.openmydoctor.com/">Open My Doctor</a> Web App</li>
+<li>Design and develop Core Project  <a href ="https://www.openmydoctor.com/">Open My Doctor</a> Web App</li>
+<li>Structure the initial architecture, folder structures and routing of the Core project using Next.js 13</li>
+<li>Manage and perform Agile methodology, and Github workflows </li>
+
+<h3>FullStack Developer at Nanaba Corp. 11/2022 ~ 12/2023 </h3> 
+<li>nanaba is a skincare intelligence startup that makes learning and community connections easier </li>
+<li>Built a 0 to 1 beauty mobile app that helps skin care enthusiasts discover new products </li>
+<li>Implemented new and returning user login authentication and authorization </li>
+<li>Technical design of model architecture for product and user databases</li>
 
 This is my Portfolio:
 
 <img src="https://github.com/jjy963851/jjy963851/assets/35151515/a3c72323-03fc-4173-9bbb-0de0a63e8299.png" width="30%" />
 
 
-}
+
 
 <h2>  My Skills  </h2>
 
