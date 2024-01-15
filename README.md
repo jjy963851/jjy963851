@@ -27,6 +27,7 @@ You can contact me by jjy963851@gmail.com
 <li>Parallex design apply</li>
 <li>Farmer Motion apply</li>
 <li>Notion API use</li>
+<img src="https://github.com/jjy963851/jjy963851/assets/35151515/a3c72323-03fc-4173-9bbb-0de0a63e8299.png" width="10%" />
 
 <h3><a href ="https://portfolio-react-alpha-flax.vercel.app/">JaeYong's Shopping Mall</a></h3>
 <li>Webapp styled as Shopping mall, anyone can add my projects to the cart, and checkout to see each project's details</li>
@@ -45,7 +46,7 @@ You can contact me by jjy963851@gmail.com
 <li>Swiper.js</li>
 
 
-<img src="https://github.com/jjy963851/jjy963851/assets/35151515/a3c72323-03fc-4173-9bbb-0de0a63e8299.png" width="10%" />
+
 
 
 <h2>  My Skills  </h2>
