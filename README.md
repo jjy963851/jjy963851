@@ -1,16 +1,23 @@
 
 
-<h1> Hi, I'm JaeYong.  </h1>
+<style>
+.green {
+    color: green;
+    font-weight:700;
+    font-size: 30px;
+}
+</style>
+
+<div>
+<h1 class ="green"> Hi, I'm JaeYong.  </h1>
 I'm a Front End developer.
-You can contact me by <span stlye ={{color: blue}}> jjy963851@gmail.com </span>
+You can contact me by jjy963851@gmail.com 
 
-System.out.println(" I graduated Bachelor Computer Science at Laroche University! ");
+<h2> My Expereince </h2>
 
-System.out.println(" I'm Learning Front-End, and Back-End! ");
 
-System.out.println(" Fun Fact : I Can Speak Korean, English, and Japanese! ");
 
-Thank You! 감사합니다. ありがとうごじゃいます!
+
 
 This is my Portfolio:
 
@@ -20,6 +27,8 @@ This is my Portfolio:
 }
 
 <h2> ## My Skills ## </h2>
+</div>
+
 
 ![HTML](https://img.shields.io/badge/-HTML-F05032?styles=for-thebadge&logo=html&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS-007ACC?style=for-the-badge&logo=css)
