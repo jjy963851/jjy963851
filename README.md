@@ -3,8 +3,12 @@
 
 
 <h1 style="color:#004e98"> Hi, I'm JaeYong.  </h1>
-I'm a Front End developer.
-You can contact me by jjy963851@gmail.com 
+<h3>I'm a Front End developer</3>
+<p>You can contact me by jjy963851@gmail.com </p>
+
+<h2>Education</h2>
+<li>Pittsburgh, PA, La Roche University -B.S Computer Science 2023 Graduated</li>
+<li>Minor at Information Technology</li>
 
 <h2> My Expereince </h2>
 
@@ -46,8 +50,17 @@ You can contact me by jjy963851@gmail.com
 <li>Swiper.js</li>
 
 
+<h2> Courses </h2>
+<li>Udemy - 2023 Web Developer Bootcamp</li>
+<li>Udemy - 2023 JavaScript 0 to Expert</li>
+<li>The Ultimate React Course 2024: React, Redux & More</li>
+<li>InfLearn - Intro to React</li>
+<li>Nomard Coders - Making Movie Website by React.js</li>
 
-
+<h2>Certification</h2>
+<li>Coursera - IBM - Intro to Basic HTML, CSS and JavaScript | 2022 May 29</li>
+<li>Nomard Coders - Making Chrome Website by Vanilla.js  |2022 Dec 20
+</li>
 
 <h2>  My Skills  </h2>
 
