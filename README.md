@@ -12,16 +12,19 @@
 
 <h2> My Expereince </h2>
 
-<h3>ReactJS Developer at <a href ="https://www.blossend.com/">Blossend Inc</a> 05/2023 ~ Current </h3> 
-<li>Design and develop Core Project  <a href ="https://www.openmydoctor.com/">Open My Doctor</a> Web App</li>
-<li>Structure the initial architecture, folder structures and routing of the Core project using Next.js 13</li>
-<li>Manage and perform Agile methodology, and Github workflows </li>
+<h3>FrontEnd Developer at <a href ="https://www.blossend.com/">Blossend Inc</a> 05/2023 ~ Current </h3> 
+<li>Developed a web app that helps new patients find high quality, local doctors by providing trustworthy reviews using ReactJS, Recoil, and Typescript hosted on AWS Amplify cloud service  <a href ="https://www.openmydoctor.com/">Open My Doctor</a> Web App</li>
+<li>Tech lead for Find a doctor app Building initial routing architecture using Next.js </li>
+<li>Revamped the company’s main website using ReactJS and CSS </li>
+<li>Led weekly sprints using agile methodology and managed development workflows like code reviews </li>
+<li>Partnered with Backend to integrate RESTFUL APIs, and connects Doctors, and Patients data using Axios </li>
+<li>Search function and Bookmark function implement using Recoil, and React hooks   </li>
 
-<h3>FullStack Developer at Nanaba Corp. 11/2022 ~ 12/2023 </h3> 
-<li>nanaba is a skincare intelligence startup that makes learning and community connections easier </li>
-<li>Built a 0 to 1 beauty mobile app that helps skin care enthusiasts discover new products </li>
-<li>Implemented new and returning user login authentication and authorization </li>
-<li>Technical design of model architecture for product and user databases</li>
+<h3>FullStack Developer at Nanaba Corp. 11/2022 ~ Current </h3> 
+<li>Built a 0 to 1 beauty iOS mobile app - nanaba - that makes sharing your skincare routines with your friends easier  with over 30,000 products, ingredients, and product descriptions using firebase, react native, expo </li>
+<li>Partnered with Product and UX to design and implement navigation flow, a scrollable infinite content feed, user profile builder with image upload functionality  </li>
+<li>User activity data logging by integrating Segment a 3rd party app service through an in-house API </li>
+<li>Login authentication and authorization for new and returning users built on Firebase Auth </li>
 
 <h2>My Projects</h2>
 
